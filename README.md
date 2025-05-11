@@ -1,8 +1,9 @@
-### Fect-Chat
+# Fect-Chat
 
 Fect-Chat is a modern, full-stack chat application built with the MERN stack (MongoDB, Express.js, React, Node.js). It offers real-time messaging capabilities, user authentication, and a sleek, responsive design.
 
-🚀 Features
+## 🚀 Features
+
 Real-Time Messaging: Instant communication between users.
 
 User Authentication: Secure registration and login functionality.
@@ -15,7 +16,8 @@ Chat Rooms: Create and join multiple chat rooms.
 
 Notifications: Real-time alerts for new messages and activities.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
+
 Frontend: React, Tailwind CSS, React Router
 
 Backend: Node.js, Express.js, MongoDB, Mongoose
@@ -28,7 +30,8 @@ State Management: Redux Toolkit
 
 Form Handling: Formik, Yup
 
-📦 Installation
+## 📦 Installation
+
 Prerequisites
 Node.js (v14 or higher)
 
